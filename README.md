@@ -30,8 +30,9 @@ I’m interested in coding, front-end developer and I ready learn new knowledge.
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=Sirinthipjw&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 <a href="https://github.com/Sirinthipjw" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirinthipjw&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-![streak](https://github-contributor-stats.vercel.app/api?username=Sirinthipjw&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-![streak](https://streak-stats.demolab.com/?user=Sirinthipjw&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
+
+[stats](https://github-readme-stats.vercel.app/api?username=Sirinthipjw&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Sirinthipjw&no-bg=true&no-frame=true&column=4&theme=algolia)
 </a>
 
 
