@@ -22,19 +22,10 @@
 
 ### Badges
 
-<details>
-  <summary><b>Stats</b></summary>
+<b>My GitHub Stats</b>
 
-![stats](https://github-readme-stats.vercel.app/api?username=char-al&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=char-Al&no-bg=true&no-frame=true&column=4&theme=algolia)
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=char-al&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+<a href="http://www.github.com/Sirinthipjw"><img src="https://github-readme-stats.vercel.app/api?username=Sirinthipjw&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="Sirinthipjw's GitHub stats" /></a>
 
-![streak](https://github-contributor-stats.vercel.app/api?username=char-al&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-![streak](https://streak-stats.demolab.com/?user=char-al&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
+<a href="http://www.github.com/Sirinthipjw"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirinthipjw&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-</details>
-
-<!-- Image by <a href="https://pixabay.com/users/gagnonm1993-4710127/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2358911">gagnonm1993</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2358911">Pixabay</a> -->
-
-![](https://komarev.com/ghpvc/?username=Char-Al&style=flat-square&label=Views)
-![](https://badges.pufler.dev/visits/char-al/char-al?color=black&logo=github&style=flat-square)
+<a href="https://github.com/Sirinthipjw" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirinthipjw&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
