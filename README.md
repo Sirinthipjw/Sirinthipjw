@@ -34,7 +34,8 @@ I’m interested in coding, front-end developer and I ready learn new knowledge.
 </a>
 </a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirinthipjw&show_icons=true&locale=en&layout=compact&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true" alt="sirinthipjw" />
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sirinthipjw&show_icons=true&locale=en&layout=compact&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true" alt="sirinthipjw" />
 </p>
 
 
