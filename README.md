@@ -25,7 +25,7 @@ I’m interested in coding, front-end developer and I ready learn new knowledge.
 <b>My GitHub Stats</b>
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=Sirinthipjw&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Sirinthipjw&no-bg=true&no-frame=true&column=4&theme=algolia)
+![trophy](https://github-profile-trophy.vercel.app/?username=Sirinthipjw&no-bg=true&no-frame=true&column=8&theme=algolia)
 
 <p align="center">
  
