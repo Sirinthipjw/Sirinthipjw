@@ -30,7 +30,7 @@ I’m interested in coding, front-end developer and I ready learn new knowledge.
 <p align="center"> 
 <a href="http://www.github.com/Sirinthipjw"><img src="https://github-readme-stats.vercel.app/api?username=Sirinthipjw&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Sirinthipjw's GitHub stats" />
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirinthipjw&show_icons=true&locale=en&layout=compact&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true" alt="sirinthipjw" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sirinthipjw&show_icons=true&locale=en&layout=compact&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true" alt="sirinthipjw" />
 </a>
 </p>
 
