@@ -26,23 +26,18 @@ I’m interested in coding, front-end developer and I ready learn new knowledge.
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=Sirinthipjw&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Sirinthipjw&no-bg=true&no-frame=true&column=4&theme=algolia) 
+
 
 
 
 <a href="http://www.github.com/Sirinthipjw"><img src="https://github-readme-stats.vercel.app/api?username=Sirinthipjw&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Sirinthipjw's GitHub stats" />
-<a href="http://www.github.com/Sirinthipjw"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirinthipjw&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+![trophy](https://github-profile-trophy.vercel.app/?username=Sirinthipjw&no-bg=true&no-frame=true&column=4&theme=algolia) 
+</a>
+
+<a href="http://www.github.com/Sirinthipjw"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirinthipjw&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" />
 <a href="https://github.com/Sirinthipjw" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirinthipjw&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 </a>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirinthipjw&show_icons=true&locale=en&layout=compact" alt="sirinthipjw" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirinthipjw&show_icons=true&locale=en" alt="sirinthipjw" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirinthipjw&" alt="sirinthipjw" /></p>
-
 
 
 
