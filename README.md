@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I’m currently in my 4th year studying Computer Engineering.
 -----------------------------------------------------------
 
-I’m interested in coding, front-end developer and I ready learn new knowledge.
+I’m new jobber , I ready learn new knowledge.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [Sirinthip2701@gmail.com](mailto:Sirinthip2701@gmail.com)
