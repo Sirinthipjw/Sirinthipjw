@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sirinthip Wongkaew
 ==========================================================================================================================================
 
-I’m currently in my 4th year studying Computer Engineering.
+I’m Graduated Computer Engineering.
 -----------------------------------------------------------
 
 I’m new jobber , I ready learn new knowledge.
